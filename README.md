@@ -1,4 +1,4 @@
-# ABM_Training
+# ABM and EQL Training
 These are code sets that were manipulated as a means of training 
 
 # Read me from source code repository 

@@ -277,8 +277,8 @@ def SIR_ABM(ri,rr,rm,T_end=5.0):
     A = np.zeros((n**2,))
 
     #initial proportions of susceptible, infected, and recovered agents
-    s0 = 0.49
-    i0 = 0.01
+    s0 = 0.50
+    i0 = 0.0
     r0 = 0.0
 
     #randomly place susceptible (1), infected (2), and recovered (3) agents
